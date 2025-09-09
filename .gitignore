@@ -1,0 +1,15 @@
+# Ignorar directorios de entornos virtuales
+qiskit_env/
+.venv/
+env/
+
+# Ignorar archivos de caché y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de datos o logs generados
+*.log
+*.tmp
+*.bak
